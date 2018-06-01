@@ -1,5 +1,5 @@
 # TODO List
-* Shows a todo list
+* Show a todo list
 * Add a new todo
 * Delete a todo
 
